@@ -1,0 +1,14 @@
+[
+  {
+    "remote":      "koron393",
+    "repository":  "android_device_htc_s4-common",
+    "target_path": "device/htc/s4-common",
+    "revision":    "eos-lp-caf"
+  },
+  {
+    "remote":      "github",
+    "repository":  "kbc-developers/proprietary_vendor_htc",
+    "target_path": "vendor/htc",
+    "revision":    "cm-12.0"
+  }
+]

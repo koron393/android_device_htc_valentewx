@@ -1,6 +1,7 @@
 HTC J (ValenteWX)
 =================
 
-CyanogenMod device tree for the HTC J (ValenteWX) - CM11.0 Branch
+Euphoria-OS-Legacy device tree for the HTC J (ValenteWX)-lollipop branch.
 
+© 2014 - Euphoria-OS Team
 © 2014 - The CyanogenMod Project
